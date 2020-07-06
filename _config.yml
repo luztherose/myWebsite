@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   New to code 👩🏾‍💻 Love learning something new every single day 📚. J'apprends le français 🇫🇷 <a href='https://twitter.com/search?q=%23Cohort28'>#Cohort28</a> <a href='https://twitter.com/junocollege'>@junocollege</a>
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://luztherose.com/
+url: https://luztherose.com
 social_username: luztherose
 github_username: luztherose
 theme_color: black
